@@ -3,7 +3,7 @@
 ## Hermes  
 Hermes is a 4-port USB HUB, using FE1.1s. It has 3 USB-A and 1 USB-C downstream ports, and 1 USB-C upstream port for connecting to the computer. It is a highly integrated, low-power USB 2.0 high-speed bus-powered USB HUB supporting upto 480 MHz signals.
 
-This is my first iteration of a USB Hub using the FE1.1s IC. I plan to make future versions with more ports and different ICs
+This is my first iteration of a USB Hub using the FE1.1s IC. I plan to make future versions with more ports and different ICs, It was built to solve the scarcity of ports on my miserable laptop 
 
 | Animation |
 | --- | 
@@ -40,6 +40,13 @@ It can support up to 480MHz.
 | Downstream Ports |
 | --- | 
 | ![Schematics](Assets/Schematics(downstream_usb_ports).png)   
+
+## Simple Build Guide :3  
+1. Order the PCBs and the components 
+2. Assemble the PCB ( Make sure to have appropriate tools such as a hotplate or a reflow station )
+3. Get the case 3D printed!
+4. Attach the top and bottom case using 4x1.5mm magnets
+5. Start using!!
 
 ## BOM   
 |Name             |Purpose                      |Quantity|Total Cost (USD)|Link                                                                                                                                              |Distributor|
